@@ -73,7 +73,7 @@ img {
 }
 
 .card:hover .image::before {
-  opacity: .6;
+  opacity: .5;
 }
 
 .image-1::before {
